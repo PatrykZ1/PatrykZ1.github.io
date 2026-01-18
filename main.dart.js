@@ -67143,34 +67143,34 @@ r=a.a
 q=r[0]
 p=r[1]
 o=new A.a4(new Float32Array(2))
-o.bD(q/2,p/3)
+o.bD(q/2,p/5)
 s=s.ax.d
 s.bx(o)
 s.V()
 s=n.ch
 s===$&&A.a()
 o=r[0]
-p=n.ay.ax.d.a[1]
+p=r[1]
 q=new A.a4(new Float32Array(2))
-q.bD(o/2,p+200)
+q.bD(o/2,p/5+300)
 s=s.ax.d
 s.bx(q)
 s.V()
 s=n.CW
 s===$&&A.a()
 q=r[0]
-p=n.ay.ax.d.a[1]
+p=r[1]
 o=new A.a4(new Float32Array(2))
-o.bD(q/2,p+80)
+o.bD(q/2,p/5+140)
 s=s.ax.d
 s.bx(o)
 s.V()
 s=n.cx
 s===$&&A.a()
-r=r[0]
-o=n.ay.ax.d.a[1]
+o=r[0]
+r=r[1]
 q=new A.a4(new Float32Array(2))
-q.bD(r/2,o+140)
+q.bD(o/2,r/5+200)
 s=s.ax.d
 s.bx(q)
 s.V()}}
