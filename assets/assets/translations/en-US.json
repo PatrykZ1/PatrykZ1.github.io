@@ -1,0 +1,19 @@
+{
+    "game_over":"Game over, score: {}",
+    "settings":"Settings",
+    "start":"Start game",
+    "score":"Score",
+    "pause":"Game paused",
+    "cancel":"Cancel",
+    "confirmation":"Are you sure you want to delete your best score?",
+    "delete":"Delete",
+    "pop_up":"Best score reset",
+    "best_score":"Best Score: ",
+    "language":"Language",
+    "theme":"Theme",
+    "theme_light":"Light",
+    "theme_dark":"Dark",
+    "close":"Close",
+    "reset":"Reset best score",
+    "click_to_return":"Click to return to main menu"
+}

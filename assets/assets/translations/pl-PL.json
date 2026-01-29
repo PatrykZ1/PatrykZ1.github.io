@@ -1,0 +1,19 @@
+{
+    "game_over":"Koniec gry, wynik: {}",
+    "settings":"Ustawienia",
+    "start":"Rozpocznij grę",
+    "score":"Wynik",
+    "pause":"Gra zapauzowana",
+    "cancel":"Anuluj",
+    "confirmation":"Czy na pewno chcesz usunąć swój najlepszy wynik?",
+    "delete":"Usuń",
+    "pop_up":"Wynik został zresetowany",
+    "language":"Język",
+    "best_score":"Najlepszy wynik: ",
+    "theme":"Motyw",
+    "theme_light":"Jasny",
+    "theme_dark":"Ciemny",
+    "close":"Zamknij",
+    "reset":"Reset wyniku",
+    "click_to_return":"Kliknij, aby wrócić do menu głównego"
+}
